@@ -24,7 +24,7 @@ p9 : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/p9.png
 
 p10 : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/p10.png
 
-StringHandlingDemo : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/stringhandling%20demo.png : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/StringHandlingDemo.png
+StringHandlingDemo : 
 
 PerformanceTest : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/PerformanceTest.png
 

@@ -40,4 +40,6 @@ SwingExample : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/SwingEx
 
 JlistExample : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/JListExample.png
 
+TabbedPaneExample : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/TabbedPaneExample.png
+
                    

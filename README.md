@@ -14,3 +14,4 @@ p4 : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/p4.png
 
 p5 : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/p5.png
 
+p6 : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/p6.png

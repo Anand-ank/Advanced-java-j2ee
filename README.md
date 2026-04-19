@@ -6,3 +6,5 @@ ListinterfaceDemo : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/Li
 
 p1 : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/p1.png
 
+p2 : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/p2.png
+

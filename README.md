@@ -28,7 +28,7 @@ StringHandlingDemo : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/s
 
 PerformanceTest : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/PerformanceTest.png
 
-StringBuildingFunctions : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/StringBuildingFunctions.png
+StringBuildingFunctions : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/StringExercisePrograms.png
 
 ImageButtonExample : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/imagebuttonexample.png  
 

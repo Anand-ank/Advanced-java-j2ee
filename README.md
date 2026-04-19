@@ -32,7 +32,7 @@ StringBuildingFunctions : https://github.com/Anand-ank/Advanced-java-j2ee/blob/m
 
 ImageButtonExample : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/imagebuttonexample.png  
 
-ButtonExample : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/india srilanka.png
+ButtonExample : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/indiasrilanka.png
 
 SwingExample : https://github.com/Anand-ank/Advanced-java-j2ee/blob/main/SwingExample.png
 
